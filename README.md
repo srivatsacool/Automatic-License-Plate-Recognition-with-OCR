@@ -38,14 +38,13 @@ Install all the needed pyhton Library using requirements.txt
 ```
   pip install requirements.txt
 ```
-streamlit\
-streamlit_drawable_canvas\
+opencv-python \
 numpy\
+onnxruntime-gpu\
 Pillow\
-tensorflow\
-pandas\
-gtts\
-gtts-token
+easyocr\
+imutils\
+streamlit
 
     
 ## Deployment
