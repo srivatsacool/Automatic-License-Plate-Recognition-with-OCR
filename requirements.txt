@@ -1,0 +1,8 @@
+# Usage: pip install -r requirements.txt
+opencv-python 
+numpy
+onnxruntime-gpu
+Pillow
+easyocr
+imutils
+streamlit
