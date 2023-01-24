@@ -8,14 +8,25 @@
 ## Demo :
 Try Link - https://srivatsacool-combine-1--license-plate-detection-with-ocr-abxfk4.streamlit.app/
 
+
+On Image :
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/76219802/214331437-c8b24ea6-270c-4126-af27-3101ab53a897.png" />
 </p>
 
-<video src="https://user-images.githubusercontent.com/76219802/214331364-5ccf8141-bec8-46fc-9be6-0a70ee6cc7df.mp4" controls="controls" style="max-width: 1000px;" autoplay = "autoplay">
+
+
+<video src="https://user-images.githubusercontent.com/76219802/214332571-d343d046-4289-40e0-a576-1cb2f922749b.mp4" controls="controls" style="max-width: 1000px;" autoplay = "autoplay">
 </video>
 
-<video src="https://user-images.githubusercontent.com/76219802/214331380-92345a16-5569-4c16-bd1f-e9444081ece8.mp4" controls="controls" style="max-width: 1000px;" autoplay = "autoplay">
+
+On Video :
+
+
+
+
+<video src="https://user-images.githubusercontent.com/76219802/214332706-f53988c8-1ea3-4450-b497-8db703b1842a.mp4" controls="controls" style="max-width: 1000px;" autoplay = "autoplay">
 </video>
 
 
@@ -56,7 +67,7 @@ gtts-token
 - Clone the repository .  
 
 ```cmd
-   $ git clone https://github.com/srivatsacool/Handwritten_AlphaNumeric_Recognizer_using_CNN
+   $ git clone https://github.com/srivatsacool/Automatic-License-Plate-Recognition-with-OCR
 
 To deploy this project run  :
 
