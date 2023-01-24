@@ -6,14 +6,19 @@
 
 
 ## Demo :
-Try Link - https://srivatsacool-handwritten-alphanumeric-recognizer-usi-app-bper2m.streamlit.app/ 
-
-<video src="https://user-images.githubusercontent.com/76219802/212941157-f99cda4f-4912-4e08-9ed9-a47a42d4363e.mp4" controls="controls" style="max-width: 1000px;" autoplay = "autoplay">
-</video>
+Try Link - https://srivatsacool-combine-1--license-plate-detection-with-ocr-abxfk4.streamlit.app/
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/76219802/212941341-6e9784a0-7151-4edb-a09d-69b61a9491bb.png" />
+  <img src="https://user-images.githubusercontent.com/76219802/214331437-c8b24ea6-270c-4126-af27-3101ab53a897.png" />
 </p>
+
+<video src="https://user-images.githubusercontent.com/76219802/214331364-5ccf8141-bec8-46fc-9be6-0a70ee6cc7df.mp4" controls="controls" style="max-width: 1000px;" autoplay = "autoplay">
+</video>
+
+<video src="https://user-images.githubusercontent.com/76219802/214331380-92345a16-5569-4c16-bd1f-e9444081ece8.mp4" controls="controls" style="max-width: 1000px;" autoplay = "autoplay">
+</video>
+
+
 
 ## Requirements
 
@@ -43,7 +48,7 @@ gtts-token
 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/76219802/212929653-afa0c5e4-cff3-4d3c-9b04-2447d0113473.png" />
+  <img src="https://user-images.githubusercontent.com/76219802/214331404-d577521c-73bb-48f4-b2bd-46698d68956c.png" />
 </p>
 
 
