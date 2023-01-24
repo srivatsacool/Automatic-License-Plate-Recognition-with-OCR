@@ -1,8 +1,8 @@
 
-# **Handdrawn AlphaNumeric Recognizer using CNN**
+# **Automatic License Plate Recognition with OCR**
 #### Made by :- Srivatsa Gorti
 
-**Aim** :- An end-to-end web app , for hand-drawn alphanumeric (Numbers and Letters) recognizer using CNN . The user themself can draw letters or numbers on th canvas and the model would predict/recognizer which letter or number it is with sound effects .An end-to-end web app , for hand-drawn alphanumeric (Numbers and Letters) recognizer using CNN . The user themself can draw letters or numbers on th canvas and the model would predict/recognizer which letter or number it is with sound effects .
+**Aim** :- An end to end web app of ALPR with OCR . This model will automatically detect License Plate of cars and read the number plate using an OCR and display it . The main reason of this app is to catch overspeeding divers and inform the local authority using the number plate recorded . The OCR used in this app is EasyOCR . Please try the app , link given below .
 
 
 ## Demo :
