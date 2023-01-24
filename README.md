@@ -50,7 +50,7 @@ streamlit
 ## Deployment
 
 
-- * **IMP** * For the model file contact me , as it is not provided publically .
+- **IMP** * For the model file contact me , as it is not provided publically .
 - Open Git Bash.
 
 - Change the current working directory to the location where you want the cloned directory.
