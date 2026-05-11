@@ -1,7 +1,7 @@
 # Automatic License Plate Recognition with OCR (ALPR + OCR)
 
 <p align="center">
-  <img src="https://user-gen-media-assets.s3.amazonaws.com/gpt4o_images/e52e064d-2c23-4e5a-b3ee-f2fa5704d3f9.png" alt="ALPR Hero Banner" width="100%" />
+  <img src="assets/hero.png" alt="ALPR Hero Banner" width="100%" />
 </p>
 
 ## 1. Introduction
